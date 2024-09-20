@@ -1,9 +1,12 @@
-Todo lesen
+Todo
 
 Learn about fetch
 
-Todo resolve merging conflicts
+Resolve merging conflicts
 
 Änderung
 
 Rebase
+
+
+Conflicts
