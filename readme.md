@@ -1,4 +1,4 @@
-Todo wirklich lesen
+Todo
 
 Learn about fetch
 
@@ -10,3 +10,9 @@ Rebase
 
 
 Was soll das?
+
+
+Was soll das?
+
+
+Conflicts
