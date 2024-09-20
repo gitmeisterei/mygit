@@ -2,11 +2,17 @@ Todo
 
 Learn about fetch
 
-Resolve merging conflicts
+Todo resolve merging conflicts !!!
 
 Änderung
 
 Rebase
+
+
+Was soll das?
+
+
+Was soll das?
 
 
 Conflicts
